@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseStorage</string>
+    <string name="activity_download">ACTIVITY DOWNLOAD</string>
+</resources>
