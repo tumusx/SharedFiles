@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         textView = (TextView) findViewById(R.id.textNextDownload);
 
         textView.setOnClickListener(this);
+        //todo TESTE
 
     }
 
@@ -30,4 +31,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 
     }
+
+    //todo TESTE
+    //todo TESTE
+    //todo TESTE
+    //todo TESTE
+    //todo TESTE
+
 }
