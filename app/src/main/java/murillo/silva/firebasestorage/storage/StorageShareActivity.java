@@ -38,7 +38,6 @@ public class StorageShareActivity extends AppCompatActivity implements View.OnCl
         progressBar = (ProgressBar) findViewById(R.id.progressBar);
 
         share.setOnClickListener(this);
-        compartilhar();
 
 
     }
@@ -78,6 +77,8 @@ public class StorageShareActivity extends AppCompatActivity implements View.OnCl
                 Toast.makeText(getBaseContext(), "Criar PDF", Toast.LENGTH_LONG).show();
                 return true;
 
+                //todo teste aaaaaaaaaaaaaaaaa
+
         }
         return super.onOptionsItemSelected(item);
     }
@@ -115,4 +116,9 @@ public class StorageShareActivity extends AppCompatActivity implements View.OnCl
         }
 
     }
+    //todo aqui seria meu projeto que foi alterado por outra pessoa
+    // --> projeto que a pessoa subiu para a minha branch
+
+    //todo teste aaaaaaaaaaaaaaaaa
+
 }
