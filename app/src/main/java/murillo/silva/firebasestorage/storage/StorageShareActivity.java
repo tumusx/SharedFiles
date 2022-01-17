@@ -39,6 +39,7 @@ public class StorageShareActivity extends AppCompatActivity implements View.OnCl
 
         share.setOnClickListener(this);
 
+        //todo teste um dous
 
     }
 
@@ -80,8 +81,13 @@ public class StorageShareActivity extends AppCompatActivity implements View.OnCl
                 //todo teste aaaaaaaaaaaaaaaaa
 
         }
+
+        //todo teste um dous
+
         return super.onOptionsItemSelected(item);
     }
+
+    //todo teste um dous
 
     private void download_imagem() {
         //String url = "https://firebasestorage.googleapis.com/v0/b/mobile-eab04.appspot.com/o/logo-uber-2048.png?alt=media&token=b577366b-a0fd-44f5-8bd5-1a16542992a4";
@@ -114,6 +120,8 @@ public class StorageShareActivity extends AppCompatActivity implements View.OnCl
         } else {
             Toast.makeText(getBaseContext(), "Nao possui imagem", Toast.LENGTH_LONG).show();
         }
+
+        //todo teste um dous
 
     }
     //todo aqui seria meu projeto que foi alterado por outra pessoa
