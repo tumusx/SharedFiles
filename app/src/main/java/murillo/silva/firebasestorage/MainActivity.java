@@ -2,6 +2,7 @@ package murillo.silva.firebasestorage;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.Manifest;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -21,6 +22,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         textView.setOnClickListener(this);
 
+      //todo  aaaaa----- --teste fodaaaa
+
     }
 
     @Override
@@ -30,4 +33,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 
     }
+
+  /*  private void permissaoW(){
+        String permissoes [] = new String[]{
+                Manifest.permission.WRITE_EXTERNAL_STORAGE,
+                Manifest.permission.READ_EXTERNAL_STORAGE,
+        };
+    }*/
 }
