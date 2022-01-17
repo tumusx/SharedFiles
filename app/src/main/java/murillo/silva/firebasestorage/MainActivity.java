@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         //todo TESTE
 
       //todo  aaaaa----- --teste fodaaaa
+        //todo aqui seria o meu projeto que alterei
 
     }
 
@@ -31,6 +32,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View view) {
         Intent intent = new Intent(getBaseContext(), StorageShareActivity.class);
         startActivity(intent);
+
+        //todo alterei aq
 
 
     }
