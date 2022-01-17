@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         textView = (TextView) findViewById(R.id.textNextDownload);
 
         textView.setOnClickListener(this);
+        //todo TESTE
 
       //todo  aaaaa----- --teste fodaaaa
 
@@ -40,4 +41,5 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 Manifest.permission.READ_EXTERNAL_STORAGE,
         };
     }*/
+
 }
