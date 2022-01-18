@@ -43,6 +43,10 @@ public class StorageShareActivity extends AppCompatActivity implements View.OnCl
         //todo esse aq eu alterei e subi
         //todo esse aq eu alterei e subi tipo o crx
 
+        //todo teste um dous
+        //todo esse aq eu alterei e subi
+        //todo esse aq eu alterei e subi tipo o
+
     }
 
     @Override
@@ -90,6 +94,10 @@ public class StorageShareActivity extends AppCompatActivity implements View.OnCl
     }
 
     //todo teste um dous
+
+    //todo teste um dous
+    //todo esse aq eu alterei e subi
+    //todo esse aq eu alterei e subi tipo o
 
     private void download_imagem() {
         //String url = "https://firebasestorage.googleapis.com/v0/b/mobile-eab04.appspot.com/o/logo-uber-2048.png?alt=media&token=b577366b-a0fd-44f5-8bd5-1a16542992a4";
